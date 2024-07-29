@@ -72,6 +72,4 @@ This recommendation system demonstrates the effectiveness of TF-IDF in providing
 
 Feel free to explore and use this notebook to build and experiment with your own recommendation system.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
